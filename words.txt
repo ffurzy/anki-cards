@@ -8,4 +8,3 @@
 лёд, ice
 гриль, grill
 уголь, charcoal
-me, я
